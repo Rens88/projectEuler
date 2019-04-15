@@ -46,8 +46,10 @@ for k in range(9,0, -1):
 				# Just to avoid going forever
 				print('limit reached. Change nlimit, or make code more efficient.')
 				break
+
 		if foundIt != []:
 			break
+			
 	if foundIt != []:
 		break
 
